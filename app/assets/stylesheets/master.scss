@@ -38,6 +38,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #2372B7;
+  font-family: 'rubikregular', san-serif;
+  font-style: bold;
 }
 
 header {
@@ -46,4 +48,14 @@ header {
 
 hr {
   clear: both;
+}
+
+h1 {
+  font-family: 'rubikregular', sans-serif;
+  font-style: bold;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'rubikmedium_italic', sans-serif;
 }
