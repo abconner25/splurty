@@ -80,3 +80,26 @@ h2 {
 .about {
   font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
 }
+
+@meida (max-width: 750px) {
+  .footer-blurb {
+    text-align: left;
+  }
+}
+
+.modal {
+  font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+}
+
+h2 span {
+  color: #dddddd;
+  font-family: 'rubikregular', sans-serif;
+}
+
+.catchphrase {
+  font-size: 20px;
+}
+
+::selection {
+  background-color: #f84342;
+}
